@@ -1,0 +1,19 @@
+{
+  "name": "getpostchecker",
+  "version": "1.0.0",
+  "description": "Build get and post node js service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubgetit/GETPOSTCHECKER.git"
+  },
+  "author": "aamir hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hubgetit/GETPOSTCHECKER/issues"
+  },
+  "homepage": "https://github.com/hubgetit/GETPOSTCHECKER#readme"
+}

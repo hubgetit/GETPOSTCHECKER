@@ -1,0 +1,17 @@
+<h1>GET Request Received</h1>
+
+<table border="1">
+<tr>
+<th>NAME</th>
+<th>VALUE</th>
+</tr>
+ {{#each urlParam}}
+
+<tr>
+<td>{{this.name}}</td>
+<td>{{this.value}}</td>
+</tr>
+
+ {{/each}}
+ </table>
+
